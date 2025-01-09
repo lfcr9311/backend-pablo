@@ -25,8 +25,20 @@ Agora seu backend estará rodando.
 ROTAS para Frontend:
 
 http://localhost:3000/users - POST = cria usuário
+
+
+
 http://localhost:3000/users/{id} - GET = busca usuário específico
+
+
+
 http://localhost:3000/users - GET = busca todos usuários
+
+
+
 http://localhost:3000/users/{id} - DELETE = delete usuário específico
+
+
+
 
 Teste no Postman também, para entender a lógica das rotas
