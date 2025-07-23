@@ -5,7 +5,7 @@ on:
 
 jobs:
   build:
-    runs-on: [self-hosted, nest-runner]
+    runs-on: self-hosted
 
     steps:
       - name: Checkout
