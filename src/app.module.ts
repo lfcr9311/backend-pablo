@@ -6,5 +6,8 @@ import { Prisma } from '@prisma/client';
   imports: [UsersModule],
   controllers: [],
   providers: [],
+
+
+
 })
 export class AppModule {}
